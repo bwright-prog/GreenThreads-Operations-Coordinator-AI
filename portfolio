@@ -1,0 +1,17 @@
+GreenThreads-Operations-AI-Portfolio
+│
+├── README.md
+│
+├── HW1-Functional-Brief
+│   └── Functional-Brief.pdf
+│
+├── HW2-Document-Intelligence
+│   └── Document-Intelligence.pdf
+│
+├── HW3-Data-Intelligence
+│   ├── Executive-Recommendation.pdf
+│   └── Supporting-Analysis.xlsx
+│
+└── HW4-Custom-AI-Assistant
+    ├── Assistant-Instructions.md
+    └── Testing-Results.md
